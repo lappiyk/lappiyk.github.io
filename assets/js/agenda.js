@@ -24,6 +24,6 @@ $('#calendar').fullCalendar({
   ],
   eventClick: function(event, element) {
 
-    window.location = "detailpelatihan.html"
+    window.location = "detail_pelatihan.html"
   }
 });
